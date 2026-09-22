@@ -72,10 +72,9 @@ export default function ConceptsPage() {
         </div>
 
         <p className="mt-12 text-center text-sm text-muted-foreground">
-          Reply with <span className="font-semibold text-foreground">1, 2, 3, or 4</span> to pick a direction.
+          Reply with <span className="font-semibold text-foreground">1, 2, 3, or 4</span> to select a direction.
         </p>
       </div>
     </main>
   )
 }
-       end
